@@ -1,4 +1,5 @@
 py -m venv venv
+
 pip install -U djoser
 
 py .\manage.py runserver
